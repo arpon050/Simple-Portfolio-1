@@ -1,8 +1,10 @@
 <h1>A simple personal portfolio website template only using HTML & CSS
 
 </h1>
-<pre>This is a simple personal portfolio website template which can be used as a starting point for your own personal portfolio website. The design uses HTML5, CSS3. You will find it easy to customize and build upon.
- Product Features: - Responsive Design
+<pre>This is a simple personal portfolio website template 
+which can be used as a starting point for your own personal portfolio website. The design uses HTML5, CSS3.
+You will find it easy to customize and build upon.
+Product Features: - Responsive Design
  - Clean Layout
  - Fully Customizable with VS Code
  - Easy to Edit
