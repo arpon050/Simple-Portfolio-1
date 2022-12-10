@@ -6,8 +6,8 @@
 .top-section {
   background-image: url(./images/top-banner.png);
   background-repeat: no-repeat;
-  height: 200px;
-  margin-bottom: 5%;
+  height: 550px;
+  margin-bottom: 15%;
 }
 .half-width {
   width: 40%;
@@ -28,8 +28,8 @@
 p {
   color: dimgray;
   font-size: 20px;
-  /* margin-top: 2%;
-  margin-bottom: 5%; */
+  margin-top: 2%;
+  margin-bottom: 5%;
 }
 .half-width img {
   width: 500px;
@@ -46,4 +46,34 @@ p {
 .btn:hover {
   background-color: #e78915;
   font-weight: 700;
+}
+.mid-section {
+  background-image: url(./images/dream-bg.png);
+  background-repeat: no-repeat;
+  height: 500px;
+  background-position: right;
+  margin-bottom: 7%;
+}
+.single-exp {
+  box-shadow: 15px 15px 80px grey;
+  height: 340px;
+  padding: 2%;
+  margin-bottom: 5%;
+}
+#full-stack {
+  border-left: 7px solid;
+  border-image: linear-gradient(to right, orange, #e78915) 1;
+}
+#baby {
+  border-left: 7px solid;
+  border-image: linear-gradient(to right, rgb(13, 36, 240), #2ad0fa) 1;
+  box-shadow: 15px 15px 80px grey;
+  height: 340px;
+  padding: 2%;
+  margin-bottom: 5%;
+}
+footer {
+  text-align: center;
+  padding: 4%;
+  background-color: beige;
 }
